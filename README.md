@@ -1,14 +1,13 @@
 # Dem To Replay 
-===
 Created to change the .dem file (demo) to the replay system in Team Fortress 2
 Software version: v0.0.1
 
 Installation:
 ===========================================================
-Open "Setup Dem To Replay"
+Open "Setup Dem To Replay" 
 Specify any folder for the program 
-Open the font files, tf2 and tf2secondary.
-Press install.
+Open the font files, tf2 and tf2secondary. 
+Press install. 
 After opening will be a window indicating the folder of the game itself Team Fortress 2. 
 
 From Steam:
@@ -43,6 +42,8 @@ YouTube: https://www.youtube.com/channel/UCf3NZ2n2rKKRU6P9n6XnSRA
 Instagram: https://www.instagram.com/f_zane_f/
 TikTok: https://www.tiktok.com/@qzanep?_t=8VtZBVnb0qb&_r=1
 
+
+_________________________________________________________________________________________
 [Ukraine]
 ====
 Dem To Replay 
