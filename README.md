@@ -76,7 +76,7 @@ ________________________________________________________________________________
 _________________________________________________________________________________________
 
 Інформація про розробника:
-YouTube: https://www.youtube.com/channel/UCf3NZ2n2rKKRU6P9n6XnSRA
+YouTube https://www.youtube.com/channel/UCf3NZ2n2rKKRU6P9n6XnSRA
 
-Instagram: https://www.instagram.com/f_zane_f/
-TikTok: https://www.tiktok.com/@qzanep?_t=8VtZBVnb0qb&_r=1
+Instagram https://www.instagram.com/f_zane_f/
+TikTok https://www.tiktok.com/@qzanep?_t=8VtZBVnb0qb&_r=1
