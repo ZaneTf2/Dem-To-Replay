@@ -1,6 +1,6 @@
 # Dem-To-Replay
 Dem To Replay 
-
+===
 Created to change the .dem file (demo) to the replay system in Team Fortress 2
 Software version: v0.0.1
 
@@ -45,7 +45,9 @@ Instagram: https://www.instagram.com/f_zane_f/
 TikTok: https://www.tiktok.com/@qzanep?_t=8VtZBVnb0qb&_r=1
 
 [Ukraine]
+====
 Dem To Replay 
+====
 Створено для зміни .dem файлу (демонстрації) на систему відтворення в Team Fortress 2
 Версія програмного забезпечення: v0.0.1
 _________________________________________________________________________________________
@@ -83,6 +85,7 @@ ________________________________________________________________________________
 _________________________________________________________________________________________
 
 Інформація про розробника:
+==========================
 YouTube https://www.youtube.com/channel/UCf3NZ2n2rKKRU6P9n6XnSRA
 
 Instagram https://www.instagram.com/f_zane_f/
