@@ -4,19 +4,19 @@ Software version: v0.0.1
 
 Installation:
 ===========================================================
-Open "Setup Dem To Replay" 
-Specify any folder for the program 
+Open "Setup Dem To Replay".
+Specify any folder for the program.
 Open the font files, tf2 and tf2secondary. 
 Press install. 
 After opening will be a window indicating the folder of the game itself Team Fortress 2. 
 
 From Steam:
 ===========================================================
-1. open the section with Team Fortress 2 
+1. Open the section with Team Fortress 2
 2. Properties 
-Local Files
-4. overview 
-Specify in the program the path of Team Fortress 2 or tf
+3. Local Files
+4. Overview 
+Specify in the program the path of Team Fortress 2 or tf.
 If you know where the common folder is, you can specify it.
 
 .Dem:
@@ -31,7 +31,7 @@ Uploading to YouTube:
 1. Select your rendered recording from the path: 
 \SteamLibrary\steamapps\common\Team Fortress 2\tf\replay\client\rendered
 2. Select a picture by clicking on the light panel (you can do it without, YouTube will take the picture from the video)
-Click download.
+3. Click download.
 4. Wait for notification and sound
 _________________________________________________________________________________________
 
@@ -53,20 +53,20 @@ Dem To Replay
 _________________________________________________________________________________________
 Встановлення:
 ===
-Відкрийте "Setup Dem To Replay.exe"
-Вкажіть будь-яку папку для програми 
+Відкрийте "Setup Dem To Replay.exe".
+Вкажіть будь-яку папку для програми.
 Відкрийте файли шрифти, tf2 і tf2secondary.
-Натисніть встановити
+Натисніть встановити.
 
 Після відкриття буде вікно із зазначенням папки самої гри Team Fortress 2.
 
 З Steam:
 ===========================================================
 1. відкрийте розділ з грою Team Fortress 2 
-2. Властивості 
-Локальні файли
-4. огляд 
-Вкажіть в програмі шлях до папки Team Fortress 2 або tf
+2. Властивості
+3. Локальні файли
+4. Огляд 
+Вкажіть в програмі шлях до папки Team Fortress 2 або tf.
 Якщо ви знаєте, де знаходиться загальна папка, можете вказати її.
 
 .Dem
@@ -74,14 +74,14 @@ ________________________________________________________________________________
 Після цього виберіть файл .dem, який хочете експортувати в реплей.
 Галочка відразу експортує в гру ваш запис, без неї потрібно прикріпитися до цього шляху:
 \SteamLibrary\steamapps\common\Team Fortress 2\tf\replay\client\replays
-Натисніть на кнопку "Почати магію"
+Натисніть на кнопку "Почати магію".
 
 Завантаження на YouTube:
 ===========================================================  
 1. Виберіть свій відтворений запис з шляху: 
 \SteamLibrary\steamapps\common\Team Fortress 2\tf\replay\client\rendered
 2. Виберіть картинку, натиснувши на світлову панель (можна і без, YouTube сам візьме картинку з відео)
-Натисніть завантажити.
+3. Натисніть завантажити.
 4. Дочекайтеся сповіщення та звукового супроводу
 _________________________________________________________________________________________
 
