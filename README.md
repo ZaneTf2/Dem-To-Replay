@@ -1,5 +1,4 @@
-# Dem-To-Replay
-Dem To Replay 
+# Dem To Replay 
 ===
 Created to change the .dem file (demo) to the replay system in Team Fortress 2
 Software version: v0.0.1
